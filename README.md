@@ -4,6 +4,21 @@
 
 This repository contains Data, supplementary materials and code used in the analysis, making it easy to reproduce the research carried out.
 
+The structure of the repository is as follows:
+
+├── data
+│   ├── dataset1.csv
+│   ├── dataset2.csv
+│   └── ...
+├── results
+│   ├── figures
+│   ├── summary_tables
+│   └── ...
+└── scripts
+    ├── script1.R
+    ├── script2.py
+    └── ...
+
 ### Contents
 
 - **Data**: This contains raw and processed data.
