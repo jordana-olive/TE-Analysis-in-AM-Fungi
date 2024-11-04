@@ -2,7 +2,7 @@
 
 ### About This Repository
 
-This repository contains data, results and code used in the analysis, making it easy to reproduce the research carried out.
+This repository contains the data, results, and code used in the analysis, making it easy to reproduce the research.
 
 The structure of the repository is as follows:
 
@@ -17,7 +17,7 @@ The structure of the repository is as follows:
 
 ### How to Cite
 
-If you find this repository helpful, please cite the published paper:
+If you find this repository helpful, please cite the paper:
 
 > Oliveira et al., 2024, *"Analyses of transposable elements in arbuscular mycorrhizal fungi
 supports evolutionary parallels with fungal plant pathogens,"* Journal Name, DOI.
