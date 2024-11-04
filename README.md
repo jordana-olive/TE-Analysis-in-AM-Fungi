@@ -6,18 +6,8 @@ This repository contains data, supplementary materials and code used in the anal
 
 The structure of the repository is as follows:
 
-├── data
-│   ├── dataset1.csv
-│   ├── dataset2.csv
-│   └── ...
-├── results
-│   ├── figures
-│   ├── summary_tables
-│   └── ...
-└── scripts
-    ├── script1.R
-    ├── script2.py
-    └── ...
+![image](https://github.com/user-attachments/assets/345228e6-b967-42b4-a050-e16ef5f843ac)
+
 
 ### Contents
 
