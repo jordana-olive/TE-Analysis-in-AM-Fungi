@@ -2,7 +2,7 @@
 
 ### About This Repository
 
-This repository contains data, supplementary materials and code used in the analysis, making it easy to reproduce the research carried out.
+This repository contains data, results and code used in the analysis, making it easy to reproduce the research carried out.
 
 The structure of the repository is as follows:
 
