@@ -11,7 +11,7 @@ The structure of the repository is as follows:
 
 ### Contents
 
-- **Data**: This contains raw and processed data.
+- **Data**: This contains raw data.
 - **Scripts**: Custom codes used.
 - **Results**: Summary results, tables, and figures that highlight our key findings.
 
