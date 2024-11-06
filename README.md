@@ -1,4 +1,4 @@
-# Transposable-Elements-in-AM-Fungi-Evolutionary-Parallels-with-Fungal-Plant-Pathogens
+# TE-Analysis-in-AM-Fungi
 
 ### About This Repository
 
