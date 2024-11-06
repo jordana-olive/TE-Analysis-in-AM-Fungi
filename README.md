@@ -20,4 +20,4 @@ The structure of the repository is as follows:
 If you find this repository helpful, please cite the paper:
 
 > Oliveira et al., 2024, *"Analyses of transposable elements in arbuscular mycorrhizal fungi
-supports evolutionary parallels with fungal plant pathogens,"* Journal Name, DOI.
+supports evolutionary parallels with fungal plant pathogens,"* [DOI](https://doi.org/10.1101/2024.11.04.621924).
